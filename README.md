@@ -6,7 +6,7 @@
   It includes:
     * empty line
     * non numeric value
-    * numbers less then one
+    * numbers less than 1
     * or numbers greater than 10
 - The player wins if there is a correct guess whithin 5 attemps
 - The game does not have a graphical user interface. It is a console one.
